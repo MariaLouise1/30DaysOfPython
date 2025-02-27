@@ -49,3 +49,5 @@ print("Euclidean Distance:", distance)
 # git push
 
 print('See comments for a reminder on how to upload progess to git repo')
+
+#to commit changes
