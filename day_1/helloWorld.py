@@ -33,3 +33,21 @@ distance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
 
 # Print result
 print("Euclidean Distance:", distance)
+
+# git repo initialise
+# git branch - if on master do next step
+# git branch -m master main
+
+# else
+# git add .
+# git commit -m "Initial commit"
+# git push -u origin main
+
+# else if already initialised repo do the following
+# git add helloWorld.py
+# git commit -m "day_1"
+# git push
+
+print('See comments for a reminder on how to upload progess to git repo')
+
+#to commit changes
